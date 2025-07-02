@@ -1,0 +1,109 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #749BC2;
+}
+li{
+    float: right;
+}
+
+li a:hover{
+    
+    background-color: #91C8E4;
+}
+
+li a{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+
+}
+
+.stylelink1{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.active {
+  background-color: #4682A9;
+}
+
+h1{
+    font-family: "Kanit", sans-serif;
+    font-weight: 400px;
+    font-style: normal;
+    margin: 0;
+    border: 0;
+    padding: 0;
+}
+
+h2{
+    text-align: center;
+    font-family: "Kanit", sans-serif;
+    font-weight: 200px;
+    font-style: bold;
+}
+
+h3{
+    text-align: center;
+    font-family: "Kanit", sans-serif;
+    font-weight: 100px;
+    font-style: bold;
+}
+
+.kanit-regular {
+  font-family: "Kanit", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.img-center {
+  display: block;
+  margin-top: 1%;
+  margin-bottom: 1%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+p{
+  font-family: "Kanit", sans-serif;
+  /*text-align: center;*/
+      font-size: 1rem;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.container {
+    /* border-top: solid #91C8E4;
+    border-bottom: solid #91C8E4; */
+    margin-left: auto;
+    margin-right: auto;
+    padding: 1rem;
+    margin-bottom: 12px;
+}
+
+span{
+    font-family: "Kanit", sans-serif;
+    /*text-align: center;*/
+    font-size: 1.2rem;
+    font-weight: 800;
+    font-style: bold;
+
+
+}
+
+#SH{
+    margin-top: 1rem;
+    text-align: center;
+    font-family: "Kanit", sans-serif;
+    font-weight: 200px;
+    font-style: bold;
+}
